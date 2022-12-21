@@ -1,5 +1,5 @@
 ### 今天做点什么🔞
-![emmm](![hello](https://views.whatilearened.today/views/github/lcx12901/deplives.svg))
+![emmm](https://views.whatilearened.today/views/github/lcx12901/deplives.svg)
 
 <p align="center">
     <a href="https://github.com/lcx12901">
