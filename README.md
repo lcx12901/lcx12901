@@ -11,4 +11,4 @@
 
 # 传送门
 
-**OpenWRT_x86_x64** https://github.com/lcx12901/Actions-R5s       <img src="https://img.shields.io/github/downloads/lcx12901/Actions-R5s/total.svg?style=for-the-badge&color=32C955"/>
+**Actions-R5s** https://github.com/lcx12901/Actions-R5s       <img src="https://img.shields.io/github/downloads/lcx12901/Actions-R5s/total.svg?style=for-the-badge&color=32C955"/>
