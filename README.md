@@ -1,4 +1,4 @@
-### 今天做点什么🔞
+### just do it!🔞
 ![emmm](https://views.whatilearened.today/views/github/lcx12901/deplives.svg)
 
 <p align="center">
