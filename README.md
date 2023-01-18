@@ -11,5 +11,5 @@
 
 # 传送门
 
-**Actions-R5s** https://github.com/lcx12901/Actions-R5s       <img src="https://img.shields.io/github/downloads/lcx12901/Actions-R5s/total.svg?style=for-the-badge&color=32C955"/>
+**Actions-R5s** https://github.com/lcx12901/Actions-R5s       <img src="https://img.shields.io/github/downloads/lcx12901/Actions-R5s/total.svg?style=for-the-badge&color=32C955"/>  
 **2ray-** https://github.com/lcx12901/v2ray-  <img src="https://img.shields.io/github/downloads/lcx12901/v2ray-/total.svg?style=for-the-badge&color=32C955"/>
