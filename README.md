@@ -1,11 +1,7 @@
 ### just do it!🔞
 ![emmm](https://views.whatilearened.today/views/github/lcx12901/deplives.svg)
 
-<p align="center">
-    <a href="https://github.com/lcx12901">
-      <img alt="GitHub Stats" src="github-readme-stats-self-mauve.vercel.app/api?username=lcx12901&include_all_commits=true&count_private=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-</p>
+![lcx12901](https://github-readme-stats.vercel.app/api?username=lcx12901&show_icons=true&theme=tokyonight&count_private=true)
 
 ![](https://raw.githubusercontent.com/lcx12901/lcx12901/output/github-snake.svg)
 
